@@ -180,7 +180,7 @@
 		(remove_unused_layers no)
 		(uuid "b5910d6f-4125-465b-9109-78bea69e89b1")
 	)
-	(pad "4" thru_hole rect
+	(pad "x" thru_hole rect
 		(at 3.7 -0.3)
 		(size 1.524 2)
 		(drill 1)
